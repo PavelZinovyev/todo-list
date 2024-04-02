@@ -1,5 +1,11 @@
-Todo list 
+<h1>Todo list</h1>
 
 При разработке использовались:
--React
--Tailwind
+<ul>
+  <li>
+    React
+  </li>
+    <li>
+    Tailwind
+  </li>
+</ul> 
