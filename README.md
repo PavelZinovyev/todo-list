@@ -1,6 +1,6 @@
 <h1>Todo list</h1>
 
-При разработке использовались:
+Technologies that were used in the development:
 <ul>
   <li>
     React
@@ -9,3 +9,15 @@
     Tailwind
   </li>
 </ul> 
+Functional:
+<ul>
+<li>
+adding notes
+<li/>
+<li>
+removing notes
+<li/>
+<li>
+adaptive design
+</li>
+</ul>
