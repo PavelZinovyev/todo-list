@@ -5,19 +5,19 @@ Technologies that were used in the development:
   <li>
     React
   </li>
-    <li>
+  <li>
     Tailwind
   </li>
 </ul> 
 Functional:
 <ul>
-<li>
-adding notes
-<li/>
-<li>
-removing notes
-<li/>
-<li>
-adaptive design
-</li>
+  <li>
+    adding notes  
+  </li>
+  <li>
+    removing notes  
+  </li>
+  <li>
+    adaptive design
+  </li>
 </ul>
